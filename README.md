@@ -1,2 +1,2 @@
 # pic16f18875_Shield
-Shiel para Pic 16f18875
+Shield para Pic 16f18875
