@@ -2,7 +2,8 @@
 Shield para Pic 16f18875
 # Schematic
 
-[Schematic_SbopaShield_2021-12-13.pdf](https://github.com/Leimer-G/pic16f18875_Shield/files/7708455/Schematic_SbopaShield_2021-12-13.pdf)
+![Schematic_SbopaShield_2021-12-13-1](https://user-images.githubusercontent.com/74838411/145928691-62655d5c-6f47-403d-a510-8de52a94f52a.png)
+
 
 # Descipción de Shield
 
