@@ -6,8 +6,8 @@ Shield para Pic 16f18875
 
 
 # Description of Shield
-Nivel Logico 5V
-Button Pull Down
-Led On with low logic level
+- Level Logic 5V <br/>
+- Button -> Pull Down <br/>
+- Led On with low logic level <br/>
 
-![sbopashiel_2021-12-132](https://user-images.githubusercontent.com/74838411/145928095-5782e83d-7ef7-4d43-9899-5cbd2525ab8f.png)
+![sbopashiel_2021-12-132](https://user-images.githubusercontent.com/74838411/145929719-de48c360-1df7-4be8-9524-4b3bb35fbd72.png)
